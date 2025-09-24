@@ -1,2 +1,2 @@
-# AU_Profile
-My  Profile
+# My Introduction
+Hi, I’m Kishan Paliwal, a BCA graduate (2025) from St. Wilfred College, affiliated with the University of Rajasthan. I am passionate about data analysis, web development, and technology, with hands-on skills in Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, HTML, CSS, and Jupyter Notebook. I have worked on projects like Blinkit Sales Analysis Dashboard using Power BI and Flight Data Analysis using Python, which strengthened my ability to derive actionable insights from data. I combine technical expertise with strong communication, problem-solving skills, and a continuous learning mindset. My short-term goal is to start my career in an entry-level role, where I can apply my skills, gain practical experience, and contribute to meaningful projects, with a long-term aim of growing into a senior position.
